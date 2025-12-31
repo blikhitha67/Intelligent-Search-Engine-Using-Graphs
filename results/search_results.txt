@@ -1,0 +1,9 @@
+Query: AI cybersecurity
+
+Top 5 Results:
+
+1. Doc 0: Python and AI for cybersecurity. (Score: 1.85)
+2. Doc 2: Machine learning for threat detection. (Score: 1.72)
+3. Doc 4: Cybersecurity best practices and threat mitigation. (Score: 1.65)
+4. Doc 1: Network security and firewall configuration. (Score: 1.12)
+5. Doc 3: Frontend development using React and JavaScript. (Score: 0.58)
