@@ -17,6 +17,8 @@ def clean_text(text):
     tokens = [token.lemma_ for token in doc if not token.is_stop]
     return " ".join(tokens)
 
+#How It Works
+
 # Cleans and normalizes document text:
 # - Lowercase conversion
 # - Remove special characters
