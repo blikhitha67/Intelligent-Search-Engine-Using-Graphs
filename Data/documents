@@ -1,0 +1,13 @@
+**Dataset Source:**  
+- Documents were collected from **Kaggle**, including cybersecurity articles, threat reports, and technical documentation.  
+- Data was preprocessed to simulate a realistic mini search engine environment.
+
+**Data Analysis Performed:**  
+- **Document Length Distribution:** Most documents ranged between **200–1000 words**, providing sufficient content for meaningful similarity analysis.  
+- **Keyword Analysis:** Frequent keywords included `Python`, `AI`, `cybersecurity`, `machine learning`, `threat`, `network`. These keywords guided graph creation and relevance scoring.  
+- **Document Similarity:** Cosine similarity computed among documents identified clusters with overlapping content, forming edges in the document graph.  
+- **Graph Structure Insights:** Central documents with high PageRank scores were found in clusters, showing relevance across multiple topics.
+
+**Purpose:**  
+- Ensures the dataset is **diverse and meaningful** for testing the intelligent search engine.  
+- Demonstrates that **preprocessing and similarity scoring** are working as intended before deploying search queries.
