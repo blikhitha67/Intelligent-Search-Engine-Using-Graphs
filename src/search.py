@@ -14,3 +14,11 @@ def search_query(query, docs, tfidf_matrix, vectorizer, pagerank_scores, top_n=5
     # Sort top_n
     ranked = sorted(combined_scores.items(), key=lambda x: x[1], reverse=True)[:top_n]
     return ranked
+
+    # How It Works
+    
+    # Processes user queries:
+    # - Preprocesses query text
+    # - Computes similarity with documents
+    # - Combines similarity + PageRank to rank results
+    # - Returns top-ranked documents
