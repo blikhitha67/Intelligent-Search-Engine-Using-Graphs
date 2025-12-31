@@ -1,0 +1,14 @@
+Document Rankings (Combined Similarity + PageRank Scores)
+
+Doc ID    Title and Score
+0         Python and AI for cybersecurity-1.85
+2         Machine learning for threat detection-1.72
+4         Cybersecurity best practices and threat mitigation -1.65
+1         Network security and firewall configuration-1.12
+3         Frontend development using React and JavaScript -0.58
+
+Observations:
+- Documents with AI and cybersecurity keywords rank highest.
+- PageRank boosts documents that are central in the similarity graph.
+- Technical front-end documents rank lowest due to low keyword overlap.
+- Dataset preprocessing and TF-IDF vectorization effectively improve search relevance.
