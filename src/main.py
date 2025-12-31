@@ -31,3 +31,11 @@ results = search_query(query, docs, tfidf_matrix, vectorizer, pagerank_scores)
 print("Top results for query:", query)
 for doc_idx, score in results:
     print(f"Doc {doc_idx}: {docs[doc_idx]} (Score: {score:.2f})")
+
+
+# Orchestrates the entire search engine workflow:
+ # 1. Loads documents
+ # 2. Preprocesses text
+ # 3. Builds graph
+ # 4. Computes PageRank
+ # 5. Handles search queries and outputs top results
