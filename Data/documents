@@ -1,5 +1,5 @@
 **Dataset Source:**  
-- Documents were collected from **Kaggle**, including cybersecurity articles, threat reports, and technical documentation.  
+- Documents were collected from **Kaggle**.  
 - Data was preprocessed to simulate a realistic mini search engine environment.
 
 **Data Analysis Performed:**  
