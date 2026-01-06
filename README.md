@@ -1,4 +1,4 @@
-#Intelligent-Search-Engine-Using-Graphs#
+# Intelligent-Search-Engine-Using-Graphs
 
 **Project Overview**
 A hybrid document search engine that combines traditional information retrieval techniques with graph-based ranking algorithms to enhance search relevance.
