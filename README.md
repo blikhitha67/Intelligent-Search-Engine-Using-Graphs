@@ -1,4 +1,6 @@
+Intelligent-Search-Engine-Using-Graphs
 
+**Project Overview**
 A hybrid document search engine that combines traditional information retrieval techniques with graph-based ranking algorithms to enhance search relevance.
 The system integrates content similarity and document authority within a similarity graph to deliver context-aware and meaningful search results.
 
